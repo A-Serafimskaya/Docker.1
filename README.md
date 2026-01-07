@@ -1,3 +1,4 @@
 
 # Скриншот ответа приложения *db-api.jar*
-![img.png](img.png)
+
+! (https://skrinshoter.ru/sZSt30DvehX)
